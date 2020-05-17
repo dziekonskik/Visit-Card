@@ -1,0 +1,60 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-color: #2C2141;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: #F8F8F8;
+    width: 624px;
+    border-radius: 16px;
+    display: flex;
+}
+
+.card__graphic {
+    margin: 32px;
+    margin-right: 16px;
+}
+
+.card__details {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 32px;
+    margin-left: 16px;
+}
+
+.card__name {
+    font-size: 36px;
+    font-weight: normal;
+    margin: 0;
+}
+
+.card__title {
+    margin-top: 0;
+    font-size: 18px;
+    font-style: italic;
+    color: #545454;
+}
+
+.card__description {
+    font-size: 16px;
+    line-height: 22px;
+    margin: 32px 0 32px 0;
+}
+
+.card__description--orange {
+    color: #ED6D05;
+}
+
+.card__link {
+    text-decoration: none;
+    color: #E20613;
+}
+
+
+
