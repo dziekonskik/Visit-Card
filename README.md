@@ -1,3 +1,3 @@
 # Visit-Card
 WTF Co Ten Frontend Homework, 
-Design given by Maciej Korsan
+design given by Maciej Korsan
