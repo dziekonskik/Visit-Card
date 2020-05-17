@@ -44,7 +44,7 @@ body {
 .card__description {
     font-size: 16px;
     line-height: 22px;
-    margin: 32px 0 32px 0;
+    margin: 24px 0 22px 0;
 }
 
 .card__description--orange {
